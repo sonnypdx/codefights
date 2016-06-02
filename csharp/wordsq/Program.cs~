@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//https://codefights.com/challenge/4kTs8etaaLh3cpPS4/main
 namespace WordSquare
 {
 	class Program
